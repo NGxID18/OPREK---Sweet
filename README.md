@@ -3,7 +3,9 @@ Stock vs Custom ROM on Redmi Note 10 Pro (Sweet)
 
 *STOCK*
 Android  : 13 (Tiramisu)
+
 ROM      : MIUI 14.0.9.1 (EU)
+
 Kernel   : 
 
 *CUSROM*
